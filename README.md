@@ -1,2 +1,2 @@
 # thedude
-This is repo for thosearegoodburgerswalter.com
+This is a repo for thosearegoodburgerswalter.com
